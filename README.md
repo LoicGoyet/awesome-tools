@@ -1,4 +1,4 @@
-# tools
+# Awesome Tools
 Collection of usefull tools for front-end developpements
 
 
