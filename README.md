@@ -8,3 +8,4 @@ Collection of usefull tools for front-end developpements
 * [Sibbell, tools to be aware about dependencies updates](https://sibbell.com/about/)
 * [Embed Responsively, generates HTML and CSS to make responsive embeds](http://embedresponsively.com/)
 * [Color Liza, Color palette masterpieces from the world's greatest artists](http://www.colorlisa.com/)
+* [WAIT! Animate, generates css animation with pause between each iteration](http://waitanimate.eggbox.io/)
