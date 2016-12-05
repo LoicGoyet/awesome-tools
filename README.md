@@ -10,3 +10,4 @@ Collection of usefull tools for front-end developpements
 * [Color Liza, Color palette masterpieces from the world's greatest artists](http://www.colorlisa.com/)
 * [WAIT! Animate, generates css animation with pause between each iteration](http://waitanimate.eggbox.io/)
 * [Resource Cards, Resource Cards is a growing list of free resources aimed to help creatives with their next project.](https://resourcecards.com/)
+* [Quantity Queries, A tool to help build Quantity Queries for your css's projects](http://quantityqueries.com/)
