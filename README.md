@@ -13,3 +13,4 @@ Collection of usefull tools for front-end developpements
 * [Quantity Queries, A tool to help build Quantity Queries for your css's projects](http://quantityqueries.com/)
 * [Font-style matcher](https://meowni.ca/font-style-matcher/)
 * [Hey meta, Quickly check & build your meta tags](http://www.heymeta.com/)
+* [mydevice.io, web devices capabilities](https://www.mydevice.io/)
