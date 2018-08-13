@@ -14,3 +14,4 @@ Collection of usefull tools for front-end developpements
 * [Font-style matcher](https://meowni.ca/font-style-matcher/)
 * [Hey meta, Quickly check & build your meta tags](http://www.heymeta.com/)
 * [mydevice.io, web devices capabilities](https://www.mydevice.io/)
+* [JSON : Placeholder, Fake Online REST API for Testing and Prototyping](https://jsonplaceholder.typicode.com/)
