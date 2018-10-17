@@ -15,3 +15,4 @@ Collection of usefull tools for front-end developpements
 * [Hey meta, Quickly check & build your meta tags](http://www.heymeta.com/)
 * [mydevice.io, web devices capabilities](https://www.mydevice.io/)
 * [JSON : Placeholder, Fake Online REST API for Testing and Prototyping](https://jsonplaceholder.typicode.com/)
+* [Favicon checker, Compare your favicons on all major web browsers, including native dark and light modes.](http://www.colinkeany.com/favicon-checker/)
